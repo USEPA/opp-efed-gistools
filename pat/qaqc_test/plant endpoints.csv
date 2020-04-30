@@ -1,0 +1,10 @@
+Type,Plant,Acute Level,Effect,Indicator,Value,MRID,Chronic Level,Effect,Indicator,Value,MRID
+SE,Corn,IC25,No effect,,1.00E+05,42041403,NOAEC/IC05,No effect,<,3.00E-06,42041403
+VV,Corn,IC25,No effect,>,4,42041402,NOAEC/IC05,No effect,,1.00E+03,42041402
+AQ,Oscillatoria lutea,IC50,,,1,42041403,NOAEC/IC05,,,1,42041403
+AQ,Stigeoclonium tenue,IC50,,,1,42041403,NOAEC/IC05,,,1,42041403
+AQ,Elodea canadensis,IC50,,,4.6,42041403,NOAEC/IC05,,,4.6,42041403
+AQ,Nephroselmis pyriformis,IC50,,,14.2,42041403,NOAEC/IC05,,,1.1,42041403
+AQ,Fontinalis hypoides,IC50,,,2,42041403,NOAEC/IC05,,,2,42041403
+AQ,Isochrysis galbana,IC50,,,30,42041403,,,,,
+AQ,Bellerochea polymorpha,IC50,,,19.4,42041403,,,,,

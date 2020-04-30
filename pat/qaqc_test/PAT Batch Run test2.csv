@@ -1,0 +1,3 @@
+Run ID,PWC Input File,PWC Scenario File,PWC ZTS File Name,PWC Semi-Aquatic File,PWC Aquatic File,Spray DSD
+test2_run1,test2.csv,,,,,Aerial_Fine_to_Medium
+test2_run2,test2.csv,,,,,Aerial_Fine_to_Medium
